@@ -1,3 +1,8 @@
+# 拉取自`https://github.com/pjreddie/darknet`
+
+# 用于少量修改和注释
+
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #

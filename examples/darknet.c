@@ -24,6 +24,7 @@ extern void run_lsd(int argc, char **argv);
 
 void average(int argc, char *argv[])
 {
+    // ./darknet average cfg out.file
     char *cfgfile = argv[2];
     char *outfile = argv[3];
     gpu_index = -1;
